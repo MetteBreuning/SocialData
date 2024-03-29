@@ -19,4 +19,10 @@ Data was aquired from an open source on [https://datasf.org/opendata/](https://d
 
 ## Visualisation 
 ### Bar chart over crimes in 
-[Bar_chart](/Assets/Bar_AnnualCrimes.png)
+![Bar_chart](/Assets/Bar_AnnualCrimes.png)
+
+### Heatmap 
+![Heatmap](/Assets/tenderloin_heatmap.html)
+
+### Bokey plot for displaying crimes in different districts
+
