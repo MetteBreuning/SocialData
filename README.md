@@ -22,7 +22,7 @@ Data was aquired from an open source on [https://datasf.org/opendata/](https://d
 ![Bar_chart](/Assets/Bar_AnnualCrimes.png)
 
 ### Heatmap 
-![Heatmap](/Assets/tenderloin_heatmap.html)
+![Heatmap](file:///C:/Users/Mette/Documents/DTU_kandidat/2_semester/Social-Data_Analysis_and_Visualization/Assignments/tenderloin_heatmap.html)
 
 ### Bokey plot for displaying crimes in different districts
 
